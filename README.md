@@ -37,7 +37,7 @@ The dashboard evaluates portfolio performance using return, risk, and risk-adjus
 
 ## Tools Used
 - Microsoft Excel
-- Statistical functions (AVERAGE, STDEV.S, COUNT)
+- Statistical functions (AVERAGE, STDEV.S)
 - Dynamic cell referencing
 - Data visualization tools (charts, formatting)
 
